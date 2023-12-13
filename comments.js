@@ -1,4 +1,4 @@
-// create web serve
+// create web server
 
 // 2. create router
 // 3. add router to web server
